@@ -1,0 +1,3 @@
+[submodule "OperacionesEcopetrol"]
+	path = OperacionesEcopetrol
+	url = https://github.com/cesanchez/OperacionesEcopetrol.git
